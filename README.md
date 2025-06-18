@@ -9,8 +9,8 @@ When I am not learning, I am probably playing padel 🎾 or lifting weights🏋�
 
 ## 📫 How to reach me: 
 
-- ![Email](mailto:romainbardou98@gmail.com)
-- ![LinkedIn](https://www.linkedin.com/in/romain-bardou-293a76159/)
+- ![[Email](https://github.com/romain-bardou/assets/envelope-solid.svg)](mailto:romainbardou98@gmail.com)
+- ![[LinkedIn](https://github.com/romain-bardou/assets/linkedin-brands.svg)](https://www.linkedin.com/in/romain-bardou-293a76159/)
 
   
 <!--
