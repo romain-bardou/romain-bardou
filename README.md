@@ -2,7 +2,7 @@
 
 My name is Romain Bardou, I am a from France 🇫🇷, currently living in Sydney 🇦🇺.
 
-I am studying 📊 Data Analytics and working on side projects to keep learning new skills.
+I am studying Data Analytics 📊 and working on side projects to keep learning new skills.
 
 When I am not learning, I am probably playing padel 🎾 or lifting weights🏋️.
 
