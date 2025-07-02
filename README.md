@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Romain Bardou, I am a from France 🇫🇷, currently living in Sydney 🇦🇺.
+My name is Romain, I am a from France 🇫🇷, currently living in Sydney 🇦🇺.
 
 I am studying Data Analytics 📊 and working on side projects to keep learning new skills.
 
